@@ -3,10 +3,8 @@
 小王软件库,https://vd3.bdstatic.com/mda-mhbae2pwwxhyxjcz/1080p/cae_h264/1628767594518574030/mda-mhbae2pwwxhyxjcz.mp4
 
 
-#EXTINF:-1,tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://epg.112114.eu.org/logo/重温经典.png" group-title="央视IPV4",重温经典
-http://148.135.93.213:81/live.php?id=重温经典
-#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.eu.org/logo/CCTV1.png" group-title="央视IPV4",CCTV1
-http://148.135.93.213:81/live.php?id=CCTV1
+央视IPV4,#genre#
+CCTV1,http://148.135.93.213:81/live.php?id=CCTV1
 #EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.112114.eu.org/logo/CCTV2.png" group-title="央视IPV4",CCTV2
 http://148.135.93.213:81/live.php?id=CCTV2
 #EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://epg.112114.eu.org/logo/CCTV3.png" group-title="央视IPV4",CCTV3
