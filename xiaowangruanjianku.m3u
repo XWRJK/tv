@@ -22,7 +22,7 @@ CCTV14,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/
 CCTV15,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225785/1.m3u8
 CCTV16,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226921/1.m3u8
 CCTV17,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226198/1.m3u8
-🏯卫视IPV6,#genre#
+🛰卫视IPV6,#genre#
 北京卫视,http://[2409:8087:7001:20:2::2]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225796/index.m3u8
 湖南卫视,http://[2409:8087:7001:20:3::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225799/index.m3u8
 东方卫视,http://[2409:8087:7001:20:3::6]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225797/index.m3u8
@@ -87,7 +87,7 @@ CCTV14,http://148.135.93.213:81/live.php?id=CCTV14
 CCTV15,http://148.135.93.213:81/live.php?id=CCTV15
 CCTV16,http://148.135.93.213:81/live.php?id=CCTV16
 CCTV17,http://148.135.93.213:81/live.php?id=CCTV17
-🏯卫视IPV4,#genre#
+🛰卫视IPV4,#genre#
 东南卫视,http://148.135.93.213:81/live.php?id=东南卫视
 北京卫视,http://148.135.93.213:81/live.php?id=北京卫视
 吉林卫视,http://148.135.93.213:81/live.php?id=吉林卫视
@@ -134,7 +134,7 @@ CETV1,http://1.30.18.218:20080/hls/133/index.m3u8
 CETV2,http://1.30.18.218:20080/hls/134/index.m3u8
 CETV4,http://1.30.18.218:20080/hls/135/index.m3u8
 
-🏯卫视频道,#genre#
+🛰卫视频道,#genre#
 江苏卫视,http://1.30.18.218:20080/hls/45/index.m3u8
 湖南卫视,http://1.30.18.218:20080/hls/46/index.m3u8
 河南卫视,http://1.30.18.218:20080/hls/47/index.m3u8
@@ -360,7 +360,7 @@ Tom和Jerry,https://live.metshop.top/huya/11352879
 风雨同路,https://s2.fsvod1.com/20220330/cNGUfzSe/index.m3u8
 霹雳先锋,https://ukzy.ukubf4.com/20220408/RUBcjzKq/index.m3u8
 
-🌙游戏赛事,#genre#
+🎮游戏赛事,#genre#
 王者荣耀KPL赛事,https://live.metshop.top/huya/660002
 和平精英职业联赛,https://live.metshop.top/huya/660006
 吃鸡赛事,https://live.metshop.top/huya/660004
