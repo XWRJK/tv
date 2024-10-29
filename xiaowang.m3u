@@ -2,9 +2,8 @@
 微信公众号,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgnMOv5wUouMCstQQ.mp4
 小王软件库,https://vd3.bdstatic.com/mda-mhbae2pwwxhyxjcz/1080p/cae_h264/1628767594518574030/mda-mhbae2pwwxhyxjcz.mp4
 
-#EXTINF:-1,tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://epg.112114.eu.org/logo/重温经典.png" group-title="央视IPV4",重温经典
-http://148.135.93.213:81/live.php?id=重温经典
 央视IPV4,#genre#
+重温经典,http://148.135.93.213:81/live.php?id=重温经典
 CCTV1,http://148.135.93.213:81/live.php?id=CCTV1
 CCTV2,http://148.135.93.213:81/live.php?id=CCTV2
 CCTV3,http://148.135.93.213:81/live.php?id=CCTV3
