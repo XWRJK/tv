@@ -1,6 +1,148 @@
 💘微信公众号:小王软件,#genre#
 💘微信公众号,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgnMOv5wUouMCstQQ.mp4
 💘小王软件,https://vd3.bdstatic.com/mda-mhbae2pwwxhyxjcz/1080p/cae_h264/1628767594518574030/mda-mhbae2pwwxhyxjcz.mp4
+#EXTINF:-1 tvg-name="CHC家庭影院" group-title="央视IPV4",CHC家庭影院
+http://148.135.93.213/live.php?id=CHC家庭影院
+#EXTINF:-1 tvg-name="CHC动作电影" http-user-agent="AptvPlayer-UA" group-title="央视IPV4",CHC动作电影
+http://101.35.240.114:88/live.php?id=CHC动作电影
+#EXTINF:-1 tvg-name="CHC影迷电影" group-title="央视IPV4",CHC影迷电影
+http://148.135.93.213/live.php?id=CHC影迷电影
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" http-user-agent="AptvPlayer-UA" group-title="央视IPV4",CCTV1
+http://101.35.240.114:88/live.php?id=CCTV1
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" group-title="央视IPV4",CCTV2
+http://101.35.240.114:88/live.php?id=CCTV2
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" http-user-agent="AptvPlayer-UA" group-title="央视IPV4",CCTV3
+http://101.35.240.114:88/live.php?id=CCTV3
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" group-title="央视IPV4",CCTV4
+http://101.35.240.114:88/live.php?id=CCTV4
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" http-user-agent="AptvPlayer-UA" group-title="央视IPV4",CCTV5
+http://101.35.240.114:88/live.php?id=CCTV5
+#EXTINF:-1 tvg-id="CCTV5PLUS" tvg-name="CCTV5+" group-title="央视IPV4",CCTV5+
+http://101.35.240.114:88/live.php?id=CCTV5p
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" http-user-agent="AptvPlayer-UA" group-title="央视IPV4",CCTV6
+http://101.35.240.114:88/live.php?id=CCTV6
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" group-title="央视IPV4",CCTV7
+http://101.35.240.114:88/live.php?id=CCTV7
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" http-user-agent="AptvPlayer-UA" group-title="央视IPV4",CCTV8
+http://101.35.240.114:88/live.php?id=CCTV8
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" group-title="央视IPV4",CCTV9
+http://101.35.240.114:88/live.php?id=CCTV9
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" http-user-agent="AptvPlayer-UA" group-title="央视IPV4",CCTV10
+http://101.35.240.114:88/live.php?id=CCTV10
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" group-title="央视IPV4",CCTV11
+http://101.35.240.114:88/live.php?id=CCTV11
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" http-user-agent="AptvPlayer-UA" group-title="央视IPV4",CCTV12
+http://101.35.240.114:88/live.php?id=CCTV12
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" group-title="央视IPV4",CCTV13
+http://101.35.240.114:88/live.php?id=CCTV13
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" http-user-agent="AptvPlayer-UA" group-title="央视IPV4",CCTV14
+http://101.35.240.114:88/live.php?id=CCTV14
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" group-title="央视IPV4",CCTV15
+http://101.35.240.114:88/live.php?id=CCTV15
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" http-user-agent="AptvPlayer-UA" group-title="央视IPV4",CCTV16
+http://101.35.240.114:88/live.php?id=CCTV16
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" group-title="央视IPV4",CCTV17
+http://101.35.240.114:88/live.php?id=CCTV17
+#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" group-title="央视IPV4",CGTN英语
+https://0472.org/hls/cgtn.m3u8
+#EXTINF:-1 tvg-id="CGTN纪录" tvg-name="CGTN纪录" group-title="央视IPV4",CGTN纪录
+https://0472.org/hls/cgtnd.m3u8
+#EXTINF:-1 tvg-id="CGTN西语" tvg-name="CGTN西语" group-title="央视IPV4",CGTN西语
+https://0472.org/hls/cgtnx.m3u8
+#EXTINF:-1 tvg-id="CGTN法语" tvg-name="CGTN法语" group-title="央视IPV4",CGTN法语
+https://0472.org/hls/cgtnf.m3u8
+#EXTINF:-1 tvg-id="CGTN阿语" tvg-name="CGTN阿语" group-title="央视IPV4",CGTN阿语
+https://0472.org/hls/cgtna.m3u8
+#EXTINF:-1 tvg-id="CGTN俄语" tvg-name="CGTN俄语" group-title="央视IPV4",CGTN俄语
+https://0472.org/hls/cgtne.m3u8
+
+#EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" http-user-agent="AptvPlayer-UA" group-title="卫视IPV4",重温经典
+http://101.35.240.114:88/live.php?id=重温经典
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" http-user-agent="AptvPlayer-UA" group-title="卫视IPV4",翡翠台
+http://101.35.240.114:88/live.php?id=翡翠台
+#EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" http-user-agent="iPhone" http-header="Referer=https://live.kankanews.com/" group-title="卫视IPV4",五星体育
+http://101.35.240.114:88/live.php?id=五星体育
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" http-user-agent="iPhone" group-title="卫视IPV4" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",凤凰资讯
+http://101.35.240.114:88/phenix.php?id=fhzx
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" http-user-agent="iPhone" group-title="卫视IPV4" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",凤凰中文
+http://101.35.240.114:88/phenix.php?id=fhzw
+#EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" http-user-agent="iPhone" group-title="卫视IPV4" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",凤凰香港
+http://101.35.240.114:88/phenix.php?id=fhhk
+#EXTINF:-1 tvg-id="香港卫视" tvg-name="香港卫视" http-user-agent="AptvPlayer-UA" group-title="卫视IPV4",香港卫视
+http://101.35.240.114:88/live.php?id=香港卫视
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" http-user-agent="AptvPlayer-UA" group-title="卫视IPV4",湖南卫视
+http://101.35.240.114:88/live.php?id=湖南卫视
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" http-user-agent="AptvPlayer-UA" group-title="卫视IPV4",北京卫视
+http://101.35.240.114:88/live.php?id=北京卫视
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" http-user-agent="AptvPlayer-UA" group-title="卫视IPV4",深圳卫视
+http://101.35.240.114:88/live.php?id=深圳卫视
+#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" http-user-agent="AptvPlayer-UA" group-title="卫视IPV4",浙江卫视
+http://101.35.240.114:88/live.php?id=浙江卫视
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" http-user-agent="AptvPlayer-UA" http-header="Referer=https://litchi-play-encrypted-site.jstv.com/" group-title="卫视IPV4",江苏卫视
+http://101.35.240.114:88/live.php?id=江苏卫视
+#EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" http-user-agent="AptvPlayer-UA" group-title="卫视IPV4",陕西卫视
+http://101.35.240.114:88/live.php?id=陕西卫视
+#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" http-user-agent="AptvPlayer-UA" group-title="卫视IPV4",湖北卫视
+http://101.35.240.114:88/live.php?id=湖北卫视
+#EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" http-user-agent="AptvPlayer-UA" group-title="卫视IPV4",内蒙古卫视
+http://101.35.240.114:88/live.php?id=内蒙古卫视
+#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" http-user-agent="AptvPlayer-UA" group-title="卫视IPV4",江西卫视
+http://101.35.240.114:88/live.php?id=江西卫视
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" http-user-agent="AptvPlayer-UA" group-title="卫视IPV4",广东卫视
+http://101.35.240.114:88/live.php?id=广东卫视
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" http-user-agent="AptvPlayer-UA" group-title="卫视IPV4",东方卫视
+http://101.35.240.114:88/live.php?id=东方卫视
+#EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" http-user-agent="AptvPlayer-UA" group-title="卫视IPV4",西藏卫视
+http://101.35.240.114:88/live.php?id=西藏卫视
+#EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" http-user-agent="AptvPlayer-UA" group-title="卫视IPV4",新疆卫视
+http://101.35.240.114:88/live.php?id=新疆卫视
+#EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" group-title="卫视IPV4",青海卫视
+http://101.35.240.114:88/live.php?id=青海卫视
+#EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" group-title="卫视IPV4",东南卫视
+http://101.35.240.114:88/live.php?id=东南卫视
+#EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" group-title="卫视IPV4",吉林卫视
+http://101.35.240.114:88/live.php?id=吉林卫视
+#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" group-title="卫视IPV4",四川卫视
+http://101.35.240.114:88/live.php?id=四川卫视
+#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" group-title="卫视IPV4",天津卫视
+http://101.35.240.114:88/live.php?id=天津卫视
+#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" http-user-agent="iPhone" http-referer="https://www.ahtv.cn/" group-title="卫视IPV4",安徽卫视
+http://101.35.240.114:88/live.php?id=安徽卫视
+#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" group-title="卫视IPV4",山东卫视
+http://101.35.240.114:88/live.php?id=山东卫视
+#EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" group-title="卫视IPV4",山西卫视
+http://101.35.240.114:88/live.php?id=山西卫视
+#EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" group-title="卫视IPV4",广西卫视
+http://101.35.240.114:88/live.php?id=广西卫视
+#EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" group-title="卫视IPV4",河北卫视
+http://101.35.240.114:88/live.php?id=河北卫视
+#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" group-title="卫视IPV4",河南卫视
+http://101.35.240.114:88/live.php?id=河南卫视
+#EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" group-title="卫视IPV4",甘肃卫视
+http://101.35.240.114:88/live.php?id=甘肃卫视
+#EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" group-title="卫视IPV4",贵州卫视
+http://101.35.240.114:88/live.php?id=贵州卫视
+#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" group-title="卫视IPV4",辽宁卫视
+http://101.35.240.114:88/live.php?id=辽宁卫视
+#EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" group-title="卫视IPV4",重庆卫视
+http://101.35.240.114:88/live.php?id=重庆卫视
+#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" group-title="卫视IPV4",黑龙江卫视
+http://101.35.240.114:88/live.php?id=黑龙江卫视
+#EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" group-title="卫视IPV4",海南卫视
+http://101.35.240.114:88/live.php?id=海南卫视
+#EXTINF:-1 tvg-id="大湾区卫视" tvg-name="大湾区卫视" group-title="卫视IPV4",大湾区卫视
+http://101.35.240.114:88/live.php?id=大湾区卫视
+
+#EXTINF:-1 http-user-agent="AptvPlayer-UA" group-title="4K8K频道",北京卫视4K
+http://101.35.240.114:88/live.php?id=北京卫视
+#EXTINF:-1 http-user-agent="AptvPlayer-UA" group-title="4K8K频道",深圳卫视4K
+http://101.35.240.114:88/live.php?id=深圳卫视
+#EXTINF:-1 tvg-id="苏州4K" tvg-name="苏州4K" group-title="4K8K频道",苏州4K
+https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
+#EXTINF:-1 tvg-id="河北4K" tvg-name="河北4K" group-title="4K8K频道",河北4K
+https://event.pull.hebtv.com:443/live/live101.m3u8
+#EXTINF:-1 tvg-id="北京纪实科教" tvg-name="北京纪实科教" http-user-agent="AptvPlayer-UA" group-title="4K8K频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京纪实科教.png",北京纪实科教8K
+http://101.35.240.114:88/brtv8k.php
 🇨🇳央视V4,#genre#
 CCTV-1 综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 CCTV-2 财经,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
