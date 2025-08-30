@@ -17,8 +17,8 @@ CCTV12,http://120.202.94.181:9446/tsfile/live/0012_1.m3u8?
 CCTV13,http://120.202.94.181:9446/tsfile/live/0013_1.m3u8?
 CCTV14,http://120.202.94.181:9446/tsfile/live/0014_1.m3u8?
 CCTV15,http://120.202.94.181:9446/tsfile/live/0015_1.m3u8?
-CCTV16,http://120.202.94.181:9446/tsfile/live/0016_1.m3u8?
-CCTV17,http://120.202.94.181:9446/tsfile/live/0017_1.m3u8?
+CCTV16,http://183.185.0.121:9003/hls/17/index.m3u8
+CCTV17,http://183.185.0.121:9003/hls/18/index.m3u8
 CGTN英语,https://0472.org/hls/cgtn.m3u8
 CGTN纪录,https://0472.org/hls/cgtnd.m3u8
 CGTN西语,https://0472.org/hls/cgtnx.m3u8
